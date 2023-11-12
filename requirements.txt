@@ -1,0 +1,3 @@
+fuzzysearch
+lxml
+aiohttp_retry
