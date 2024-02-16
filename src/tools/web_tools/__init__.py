@@ -1,13 +1,8 @@
 """
  	@author
-        Anonymous authors of ICLR'24 submission (CRITIC)
- 		Email: xxx@gmail.com
- 		Github: https://github.com/xxx
- 		GitLab: https://gitlab.com/xxx
-
- 	@project
- 		@create date xxx
- 		@modify date xxx
+        Zhibin Gou
+ 		Email: zebgou@gmail.com
+ 		Github: https://github.com/ZubinGou
 
 	@license
 		MIT License
